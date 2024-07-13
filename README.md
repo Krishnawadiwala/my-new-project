@@ -30,10 +30,6 @@ Our solution is adaptable across different environmental contexts, much like how
 
 ![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
 
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
-
-
 ## Challenges
 
 Limitations:
